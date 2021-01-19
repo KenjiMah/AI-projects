@@ -1,0 +1,3 @@
+python fast-downward.py pacman_project/q1_domain.pddl pacman_project/q1_problem.pddl 
+python fast-downward.py pacman_project/q2_domain.pddl pacman_project/q2_problem.pddl 
+python fast-downward.py pacman_project/q3_domain.pddl pacman_project/q3_problem.pddl 
